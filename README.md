@@ -1,6 +1,47 @@
-### Hi there 👋
+### Olá, visitante! 👋
+Meu nome é José Antonio dos Santos Barbosa, mais conhecido como José Barbosa ou, simplesmente, Barbosa. Seja bem vindo ao meu perfil no Github. 
 
-<!--
+###Ferramentas e Tecnologias
+
+###Estou trabalhando
+🔭 Atualmente estou trabalhando em desenvolvimento de sistemas para o Ministério Público Federal, além de manter meu site pessoal (josebarbosa.com.br), que tem alguma fama entre os servidores do MPU e Judiciário Federal devido ao simulador de salários, primeiro projeto pessoal no qual tive maior repercussão. 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+          
+          
+          
+
+###Estou Estudando
+🌱 Atualmente estou aprimorando meus conhecimentos em Java, especialmente utilizando o framework Spring Boot. 
+👯 Tenho interesse em colaborar em outros projetos relacionados à máquina pública, em busca de soluções que aumentem a eficiência do setor público em geral. 
+🤔 Preciso de ajdua para formar novos contatos na área. 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+          
+          
+                    
+          
+
+###Pergunte-me sobre
+💬 Pergunte-me sobre Java/PHP, contratos, licitações, gestão orçamentária e serviço público em geral. 
+### 📫 Contatos: 
+<div>
+  <a href = "mailto:jose@josebarbosa.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/josebarbosa-com-br/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.youtube.com/channel/UCUt-9ZAjyu_CjDcUUp03qPA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
+  <!--
 **josebarbosa/josebarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
