@@ -34,4 +34,4 @@ Meu nome é José Antonio dos Santos Barbosa, mais conhecido como **José Barbos
 </div>
           
 ![Snake animation](https://github.com/josebarbosa/josebarbosa/blob/output/github-contribution-grid-snake.svg)
-          
+      
