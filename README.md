@@ -29,7 +29,7 @@ Meu nome é José Antonio dos Santos Barbosa, mais conhecido como **José Barbos
 ### :construction_worker_woman: Estatísticas 
 <div>
 <a href="https://github.com/josebarbosa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josebarbosa&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josebarbosa&langs_count=9&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josebarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
